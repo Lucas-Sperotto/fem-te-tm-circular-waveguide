@@ -1,6 +1,6 @@
 # Resultados – Modos TM (Componente Escalar Ez)
 Este documento apresenta os gráficos dos modos TM simulados com o método dos elementos finitos (FEM).
-Cada figura representa a distribuição espacial da componente longitudinal do campo elétrico \( E_z \).
+Cada figura representa a distribuição espacial da componente longitudinal do campo elétrico $` E_z `$.
 ---
 ## Modo TM 1
 ![Modo TM 1](../out/img/tm_tm_24modos/modo_1_TM.png)

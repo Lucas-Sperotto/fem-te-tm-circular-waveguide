@@ -8,17 +8,17 @@ Guias de onda circulares são estruturas metálicas cilíndricas utilizadas para
 A separação de variáveis e a simetria cilíndrica permitem resolver as equações de Maxwell usando funções de Bessel.
 
 As frequências de corte e os campos associados dependem das **raízes das funções de Bessel**:
-- Modos **TE**: raízes de \( J'_n(k_c r) = 0 \)
-- Modos **TM**: raízes de \( J_n(k_c r) = 0 \)
+- Modos **TE**: raízes de $` J'_n(k_c r) = 0 `$
+- Modos **TM**: raízes de $` J_n(k_c r) = 0 `$
 
-Essas raízes determinam os valores próprios do número de onda transversal \( k_c \), os quais se relacionam diretamente com as frequências de corte por:
+Essas raízes determinam os valores próprios do número de onda transversal $` k_c `$ os quais se relacionam diretamente com as frequências de corte por:
 
-\[
+$`
 f_c = \frac{c}{2\pi} k_c = \frac{c}{2\pi} \frac{x_{nm}}{a}
-\]
+`$
 
 onde:
-- \( c \) é a velocidade da luz no vácuo,
-- \( a \) é o raio do guia de onda,
-- \( x_{nm} \) é a m-ésima raiz da função de Bessel \( J_n \) ou sua derivada, conforme o modo.
+- $` c `$ é a velocidade da luz no vácuo,
+- $` a `$ é o raio do guia de onda,
+- \$` x_{nm} `$ é a m-ésima raiz da função de Bessel $` J_n `$ ou sua derivada, conforme o modo.
 

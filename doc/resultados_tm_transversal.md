@@ -1,5 +1,5 @@
 # Resultados – Modos TM (Campo Transversal)
-Este documento apresenta os gráficos vetoriais dos modos TM, representando o campo elétrico transversal obtido a partir da componente \( E_z \).
+Este documento apresenta os gráficos vetoriais dos modos TM, representando o campo elétrico transversal obtido a partir da componente $` E_z `$.
 As setas indicam a direção e intensidade relativa dos vetores, com coloração baseada na magnitude.
 ---
 ## Campo Transversal – Modo TM 1
