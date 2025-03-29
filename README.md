@@ -38,10 +38,10 @@ python waveguide_modes.py
 
 A seguir estão os arquivos com a descrição completa dos resultados gráficos:
 
-- [Modos TE – Potencial Hz](../resultados_te_potencial.md)
-- [Modos TE – Campo Transversal](../resultados_te_transversal.md)
-- [Modos TM – Potencial Ez](../resultados_tm_potencial.md)
-- [Modos TM – Campo Transversal](../resultados_tm_transversal.md)
+- [Modos TE – Potencial Hz](../doc/resultados_te_potencial.md)
+- [Modos TE – Campo Transversal](../doc/resultados_te_transversal.md)
+- [Modos TM – Potencial Ez](../doc/resultados_tm_potencial.md)
+- [Modos TM – Campo Transversal](../doc/resultados_tm_transversal.md)
 
 ## 📜 Licença
 
