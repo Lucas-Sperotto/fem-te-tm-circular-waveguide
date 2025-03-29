@@ -34,6 +34,15 @@ python waveguide_modes.py
 - `out/results/`: tabelas com autovalores, frequências e kc·r.
 - `meshes/`: arquivos de malha `.msh` gerados pelo GMSH.
 
+## 📑 Documentação e Resultados
+
+A seguir estão os arquivos com a descrição completa dos resultados gráficos:
+
+- [Modos TE – Potencial Hz](../resultados_te_potencial.md)
+- [Modos TE – Campo Transversal](../resultados_te_transversal.md)
+- [Modos TM – Potencial Ez](../resultados_tm_potencial.md)
+- [Modos TM – Campo Transversal](../resultados_tm_transversal.md)
+
 ## 📜 Licença
 
 Este projeto está licenciado sob a **Licença MIT**.
