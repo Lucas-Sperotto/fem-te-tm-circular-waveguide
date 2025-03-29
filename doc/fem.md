@@ -6,7 +6,7 @@ O Método dos Elementos Finitos (FEM) é uma técnica numérica amplamente utili
 
 ## Formulação Variacional
 
-A equação de Helmholtz governando o campo escalar (Ez ou Hz) é:
+A equação de Helmholtz governando o campo escalar ($` E_z `$ ou $` H_z `$) é:
 
 $`
 \nabla^2 \psi + k_c^2 \psi = 0
