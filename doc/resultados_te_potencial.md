@@ -1,6 +1,6 @@
-# Resultados – Modos TE (Componente Escalar Hz)
+# Resultados – Modos TE (Componente Escalar $H_z$)
 Este documento apresenta os gráficos dos modos $TE_{m,n}$ simulados com o método dos elementos finitos (FEM).
-Cada figura representa a distribuição espacial da componente longitudinal do campo magnético $` H_z `$.
+Cada figura representa a distribuição espacial da componente longitudinal do campo magnético $H_z$.
 ---
 ## Modo $TE_{1,1}$
 ![Modo TE 1](../out/img/te_te_24modos/modo_1_TE.png)
