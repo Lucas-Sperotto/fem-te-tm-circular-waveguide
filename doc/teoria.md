@@ -14,11 +14,11 @@ As frequências de corte e os campos associados dependem das **raízes das funç
 Essas raízes determinam os valores próprios do número de onda transversal $k_c$ os quais se relacionam diretamente com as frequências de corte por:
 
 $$
-f_c = \frac{c}{2\pi} k_c = \frac{c}{2\pi} \frac{x_{nm}}{a}
+f_c = \frac{c}{2\pi} k_c = \frac{c}{2\pi} \frac{x_{n,m}}{a}
 $$
 
 onde:
 - $c$ é a velocidade da luz no vácuo,
 - $a$ é o raio do guia de onda,
-- \$x_{nm}$ é a m-ésima raiz da função de Bessel $J_n$ ou sua derivada, conforme o modo.
+- \$x_{n,m}$ é a m-ésima raiz da função de Bessel $J_n$ ou sua derivada, conforme o modo.
 
