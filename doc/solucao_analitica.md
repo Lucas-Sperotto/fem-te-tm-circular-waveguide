@@ -47,7 +47,7 @@ f_c = \frac{c}{2\pi} k_c = \frac{c}{2\pi} \frac{x_{nm}}{a}
 $$
 
 onde:
-- $x_{nm}$ é a m-ésima raiz da função de Bessel $J_n$ (TM) ou da derivada $J_n'$ (TE),
+- $x_{n,m}$ é a m-ésima raiz da função de Bessel $J_n$ (TM) ou da derivada $J_n'$ (TE),
 - $a$ é o raio do guia de onda,
 - $c$ é a velocidade da luz no vácuo.
 
