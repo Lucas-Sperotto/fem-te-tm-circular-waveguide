@@ -11,7 +11,7 @@ Para os modos TM, a componente longitudinal do campo elétrico $E_z$ é diferent
 A solução geral para $E_z$ é:
 
 $$
-E_z(r, \phi) = J_n(k_c r) \cos(n\phi) \quad 	ext{ou} \quad J_n(k_c r) \sin(n\phi)
+E_z(r, \phi) = J_n(k_c r) \cos(n\phi) \quad 	\text{ou} \quad J_n(k_c r) \sin(n\phi)
 $$
 
 A condição de contorno de campo elétrico nulo na parede metálica exige:
@@ -27,7 +27,7 @@ $$
 Nos modos TE, o campo elétrico longitudinal é nulo ($E_z = 0$) e o campo magnético $H_z$ possui a forma:
 
 $$
-H_z(r, \phi) = J_n(k_c r) \cos(n\phi) \quad 	ext{ou} \quad J_n(k_c r) \sin(n\phi)
+H_z(r, \phi) = J_n(k_c r) \cos(n\phi) \quad 	\text{ou} \quad J_n(k_c r) \sin(n\phi)
 $$
 
 A condição de contorno, obtida da continuidade da componente tangencial do campo magnético, leva a:
